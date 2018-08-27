@@ -1,0 +1,26 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnoonan32/LIRI-bot.git"
+  },
+  "author": "Patrick Noonan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnoonan32/LIRI-bot/issues"
+  },
+  "homepage": "https://github.com/pnoonan32/LIRI-bot#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "twitter": "^1.7.1"
+  }
+}
